@@ -1,0 +1,15 @@
+Category_ID,Classification,SSFF_Eligible_Category,ICMA_Category,UN_SDG_Goals,Moodys_SPO_SDG_Targets,SSFF_Source_Pages,Verification_Status
+G01,Green,Clean Transportation,GBP: Clean transportation,11;13,11.2,A01 p.17,VERIFIED
+G02,Green,Renewable Energy,GBP: Renewable energy,7;13,7.2,A01 pp.17-18,VERIFIED
+G03,Green,Energy Efficiency,GBP: Energy efficiency,11;13,7.3;9.4,A01 p.18,VERIFIED
+G04,Green,Climate Change Adaptation,GBP: Climate change adaptation,13,13.1,A01 p.19,VERIFIED
+G05,Green,Pollution Prevention and Control,GBP: Pollution prevention and control,12,11.6;12.4;12.5,A01 p.20,VERIFIED
+G06,Green,Sustainable Water and Wastewater Management,GBP: Sustainable water and wastewater management,6,6.1;6.3;6.4,A01 p.21,VERIFIED
+G07,Green,Terrestrial and Aquatic Biodiversity Conservation,GBP: Terrestrial and aquatic biodiversity conservation,14;15,14.2;14.5;15.1;15.5,A01 pp.22-23,VERIFIED
+S01,Social,Affordable Basic Infrastructure,SBP: Affordable basic infrastructure,1;6;9,1.4;6.1;6.2;9.1;9.c,A01 pp.23-24,VERIFIED
+S02,Social,Access to Essential Services — Financing and Financial Services,SBP: Access to essential services,8;10,8.3;8.10;10.2,A01 pp.24-25,VERIFIED
+S03,Social,"Access to Essential Services — Education and Vocational Training, Healthcare",SBP: Access to essential services,3;4,3.8;4.1;4.3;4.4,A01 pp.25-26,VERIFIED
+S04,Social,Affordable Housing,SBP: Affordable housing,10;11,10.2;11.1,A01 p.26,VERIFIED
+S05,Social,Socioeconomic Advancement and Empowerment,SBP: Socioeconomic advancement and empowerment,5;8;10,5.5;8.5;10.2,A01 pp.26-27,VERIFIED
+S06,Social,MSME Financing to Support Employment Generation and/or Alleviate Unemployment,"SBP: Employment generation, including SME financing",5;8,5.5;8.3;8.5,A01 p.28,VERIFIED
+S07,Social,Food Security and Sustainable Food Systems,SBP: Food security and sustainable food systems,2,2.1;2.3;2.4;2.a;8.4,A01 p.29,VERIFIED
